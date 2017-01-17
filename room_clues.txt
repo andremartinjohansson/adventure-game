@@ -1,0 +1,46 @@
+{
+    "1": [
+        {
+            "clue1": "Look at the colors of the banners and the colors of the shrines. Maybe try to match them."
+        },
+        {
+            "clue2": "Maybe you can somehow interact with the shrines to change their color."
+        }
+    ],
+    "2": [
+        {
+            "clue1": "Place correct object on the correct pressure plate."
+        }
+    ],
+    "3": [
+        {
+            "clue1": "There must be something to these torches..."
+        }
+    ],
+    "4": [
+        {
+            "clue1": "That object in the hole looks like a key."
+        }
+    ],
+    "5": [
+        {
+            "clue1": "Looks like we have to activate the buttons with the correct symbols."
+        }
+    ],
+    "6": [
+        {
+            "clue1": "There must be some way through the wall."
+        }
+    ],
+    "7": [
+        {
+            "clue1": "Kick him!"
+        },
+        {
+            "clue2": "Use the staff to open the grate!"
+        },
+        {
+            "clue3": "We can use the grate to lock him in!"
+        }
+    ]
+}

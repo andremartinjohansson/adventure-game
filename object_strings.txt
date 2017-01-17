@@ -1,0 +1,377 @@
+{
+    "look_1": [
+        {
+            "Chest1": "\nAn ancient chest... It appears to be protected by some magical power.\n",
+            "Chest2": "\nThe chest appears to be unlocked, and there's no magical protection.\n",
+            "Chest3": "\nYou kicked the chest to pieces. Why should I look at it?\n"
+        },
+        {
+            "LeftShrine": "\nThe shrine is glowing {color} and appears to be in the shape of a sabre cat.\n"
+        },
+        {
+            "MiddleShrine": "\nThe shrine is glowing {color} and appears to be in the shape of a wolf.\n"
+        },
+        {
+            "RightShrine": "\nThe shrine is glowing {color} and appears to be in the shape of a sabre cat.\n"
+        },
+        {
+            "Door": "\nThe door looks quite big.\n"
+        },
+        {
+            "Banners": "\nThe banners are yellow, blue and yellow. They appear quite damaged.\n"
+        },
+        {
+            "Key1": "\nThat is a pretty big key. And it's glowing!\n",
+            "Key2": "\nWe don't have the key yet!\n"
+        }
+    ],
+    "look_2": [
+        {
+            "SkullPlate": "\nA pressure plate with a skull symbol on it. It seems to be {state}.\n"
+        },
+        {
+            "SwordPlate": "\nA pressure plate with a sword symbol on it. It seems to be {state}.\n"
+        },
+        {
+            "Skull": "\nAppears to be a human skull but it doesn't feel or look quite right.\n"
+        },
+        {
+            "Sword": "\nA small but quite impressive sword. It kind of looks like it has a faint blue glow around it.\n"
+        },
+        {
+            "Candle": "\nA candle. Seems irrelevant.\n"
+        },
+        {
+            "Helmet": "\nA black helmet commonly worn by the undead.\n"
+        },
+        {
+            "Door": "\nSmaller than the previous door but still quite big. No keyhole this time.\n"
+        }
+    ],
+    "look_3": [
+        {
+            "Torches": "\nIt's a torch.\n"
+        }
+    ],
+    "look_4": [
+        {
+            "Hole1": "\nIt's dark, but there's something glowing at the bottom.\n",
+            "Hole2": "\nIt's just blackness.\n"
+        },
+        {
+            "WoodenBox1": "\nThe box looks fragile.\n",
+            "WoodenBox2": "\nThe box is completely broken.\n"
+        },
+        {
+            "Door": "\nThe door is {lock}.\n"
+        },
+        {
+            "FishingRod1": "\nMaybe this can be used to get the object in the hole.\n",
+            "FishingRod2": "\nWhat fishing rod?\n"
+        }
+    ],
+    "look_5": [
+        {
+            "Buttons": "\nThe button is {state}.\n"
+        }
+    ],
+    "look_6": [
+        {
+            "Wall1": "\nThe wall is broken. Well done!\n",
+            "Wall2": "\nThe wall doesn't look entirely right.\n"
+        }
+    ],
+    "look_7": [
+        {
+            "Grate1": "\nYou locked in the Keeper!\n",
+            "Grate2": "\nYou've opened the grate.\n",
+            "Grate3": "\nThe grate is locked!\n"
+        },
+        {
+            "Keeper1": "\nThe Keeper is locked in. Well done!\n",
+            "Keeper2": "\nThe Keeper has no staff.\n",
+            "Keeper3": "\nThe Keeper is going to kill you. Do something!\n"
+        },
+        {
+            "Crystal1": "\nGo! Destroy the crystal!\n",
+            "Crystal2": "\nYou have to get past the Keeper!\n",
+            "Crystal3": "\nIf you go for the crystal now you'll die. Deal with the Keeper first!\n"
+        },
+        {
+            "Staff1": "\nYou have the staff. Use it!\n",
+            "Staff2": "\nHe seems to get a lot of his power from the staff!\n"
+        }
+    ],
+    "open_1": [
+        {
+            "Chest1": "\nIt worked! The chest opened! Grab the key.\n",
+            "Chest2": "\nThe chest is still locked and protected by magic!.\n"
+        },
+        {
+            "Shrines": "\nI doubt the shrines can be opened.\n"
+        },
+        {
+            "Door1": "\nHah! It's opening! Now let's move into the next room.\n",
+            "Door2": "\nThe door is already open.\n",
+            "Door3": "\nThe door is locked, You need the key.\n"
+        },
+        {
+            "Banners": "\nEven if there was a way to open the banners, you wouldn't be able to reach them.\n"
+        },
+        {
+            "Key": "\nYou can't open the key. The key is used to open the door!\n"
+        }
+    ],
+    "open_2": [
+        {
+            "Plates": "\nThere is no way to open the pressure plate.\n"
+        },
+        {
+            "Skull": "\nBe serious...\n"
+        },
+        {
+            "Sword": "\nYou can't open a sword!\n"
+        },
+        {
+            "Candle": "\nHow is this going to help anyone?\n"
+        },
+        {
+            "Helmet": "\nIt's a helmet...\n"
+        },
+        {
+            "Door": "\nThe door is closed.\n"
+        }
+    ],
+    "open_3": [
+        {
+            "Torches": "\nThere is no way to open the torch.\n"
+        }
+    ],
+    "open_4": [
+        {
+            "Hole": "\nIt's a hole...\n"
+        },
+        {
+            "WoodenBox1": "\nThere does not appear to be a way to open the box normally.\n",
+            "WoodenBox2": "\nThe box is broken.\n"
+        },
+        {
+            "Door1": "\nUse the key!\n",
+            "Door2": "\nThe door is {lock}!"
+        },
+        {
+            "FishingRod": "\nThat's not how fishing rods work.\n"
+        }
+    ],
+    "open_5": [
+        {
+            "Buttons": "\nThe button does not open.\n"
+        }
+    ],
+    "open_6": [
+        {
+            "Wall": "\nThere is no secret switch. It cannot be opened normally.\n"
+        }
+    ],
+    "open_7": [
+        {
+            "Grate1": "\nThe grate is locked with the keeper in it. Why would you open it again?\n",
+            "Grate2": "\nThe grate is already open.\n",
+            "Grate3": "\nOpening the grate!\n",
+            "Grate4": "The grate is locked!\n"
+        },
+        {
+            "Keeper": "\nFOCUS!\n"
+        },
+        {
+            "Crystal1": "\nThere is no way to open the crystal it seems.\n",
+            "Crystal2": "\nDeal with the Keeper first!\n"
+        },
+        {
+            "Staff": "\nThis staff holds no secrets. It's just a magic staff.\n"
+        }
+    ],
+    "move_1": [
+        {
+            "Chest": "\nThe chest appears to be stuck to the ground.\n"
+        },
+        {
+            "Shrines": "\nThe shrine's glow turned {color}.\n"
+        },
+        {
+            "Door": "\nYou're strong. But you're not that strong.\n"
+        },
+        {
+            "Banners": "\nYou can't even reach them!\n"
+        },
+        {
+            "Key": "\nIt would probably be wiser to use the key.\n"
+        }
+    ],
+    "move_2": [
+        {
+            "Plates": "\nThere doesn't seem to be a way to move the pressure plate.\n"
+        },
+        {
+            "Skull1": "\nPlacing the skull on the skull plate lights up the symbol. And look, the door is opening. We solved it!\n",
+            "Skull2": "\nPlacing the skull on the skull plate lights up the symbol.\n",
+            "Skull3": "\nRemoving the skull makes the symbol go dark again.\n"
+        },
+        {
+            "Sword1": "\nPlacing the sword on the sword plate lights up the symbol. And look, the door is opening. We solved it!\n",
+            "Sword2": "\nPlacing the sword on the sword plate lights up the symbol.\n",
+            "Sword3": "\nRemoving the sword makes the symbol go dark again.\n"
+        },
+        {
+            "Candle": "\nMoving it onto the pressure plates does nothing. This is probably not right.\n"
+        },
+        {
+            "Helmet": "\nMoving it onto the pressure plates does nothing. This is probably not right.\n"
+        },
+        {
+            "Door": "\nThe door can't be moved.\n"
+        }
+    ],
+    "move_3": [
+        {
+            "Torches1": "\nRemoving the torch from its stand does nothing.\n",
+            "Torches2": "\nPlacing back the torch...\n"
+        },
+        {
+            "RightTorch1": "\nAh! Removing the right torch opens the wall. We can go forward into the next room.\n",
+            "RightTorch2": "\nYou realise this will close the wall again? See, the wall closes.\n"
+        }
+    ],
+    "move_4": [
+        {
+            "Hole": "\nIt's a hole...\n"
+        },
+        {
+            "WoodenBox1": "\nThere's no point.\n",
+            "WoodenBox2": "\nThe box is broken.\n"
+        },
+        {
+            "Door": "\nThe door is too heavy to move manually.\n"
+        },
+        {
+            "FishingRod": "\nNo, use it!\n"
+        }
+    ],
+    "move_5": [
+        {
+            "Buttons": "\nThe button can't be moved.\n"
+        }
+    ],
+    "move_6": [
+        {
+            "Wall": "\nIt appears that there is no way to move the wall.\n"
+        }
+    ],
+    "move_7": [
+        {
+            "Grate1": "\nI think it can only be opened. It's also locked...\n",
+            "Grate2": "\nDon't close the grate!\n"
+        },
+        {
+            "Keeper": "\nYou expect the Keeper to just let you move him?\n"
+        },
+        {
+            "Crystal1": "\n\nThat's not a good idea. Besides, we need to destroy it.\n",
+            "Crystal2": "\nThe Keeper is still here!\n"
+        },
+        {
+            "Staff": "\nWe need it!\n"
+        }
+    ],
+    "kick_1": [
+        {
+            "Chest1": "\nUnecessary but it worked. The chest broke and look, there's the key! Grab it!\n",
+            "Chest2": "\nThat's not a good idea. It is still protected by magic.\n"
+        },
+        {
+            "Shrines": "\nLet's not do that.\n"
+        },
+        {
+            "Door": "\nYou'll only damage your armor.\n"
+        },
+        {
+            "Banners": "\nCan you fly? No? Then let's try something else.\n"
+        },
+        {
+            "Key": "\nWhy would you do that?\n"
+        }
+    ],
+    "kick_2": [
+        {
+            "Plates": "\nWell, that did nothing but at least it didn't break.\n"
+        },
+        {
+            "Skull": "\nAre we here to play football with the skull?\n"
+        },
+        {
+            "Sword": "\nThat doesn't sound like a good plan.\n"
+        },
+        {
+            "Candle": "\nMaybe don't break it in case we need it...\n"
+        },
+        {
+            "Helmet": "\nThe helmet is probably too heavy to play football with.\n"
+        },
+        {
+            "Door": "\nIs there a point to this?\n"
+        }
+    ],
+    "kick_3": [
+        {
+            "Torches": "\nThe torch is too high up.\n"
+        }
+    ],
+    "kick_4": [
+        {
+            "Hole": "\nIt's a hole..."
+        },
+        {
+            "WoodenBox1": "\nThe box broke rather easily. And what is that? A fishing rod? Take it!\n",
+            "WoodenBox2": "\nIs that really necessary?\n"
+        },
+        {
+            "Door": "\nThere is absolutely no point in kicking the door.\n"
+        },
+        {
+            "FishingRod": "\nWhy would you do that? We need it.\n"
+        }
+    ],
+    "kick_5": [
+        {
+            "Buttons1": "\nThe symbol lights up.\n",
+            "Buttons2": "\nThe symbol goes dark again.\n"
+        }
+    ],
+    "kick_6": [
+        {
+            "Wall1": "\nThe wall is broken. We can continue.\n",
+            "Wall2": "\nI think it's working!\n",
+            "Wall3": "\nOh yes, it's definitely going to come down!\n",
+            "Wall4": "\nThere it goes! The wall is broken and that's the last room!\n"
+        }
+    ],
+    "kick_7": [
+        {
+            "Grate1": "\nTHe lock is too strong.\n",
+            "Grate2": "\nI don't think that's going to work.\n"
+        },
+        {
+            "Keeper1": "\nThe staff just fell into your hands. Can you use it to defeat him?\n",
+            "Keeper2": "\nHe's in! He's in the hole! I'm closing the grate and locking it. Get to the crystal!\n",
+            "Keeper3": "\nHe's already locked in!\n",
+            "Keeper4": "\nI don't think we can kick him out of existence. Try something else!\n"
+        },
+        {
+            "Crystal1": "\nYou did it! You destroyed the crystal. And that's the sound of all the undead falling apart. They're gone. The undead are actually gone.\n",
+            "Crystal2": "\nThe Keeper is still here!\n"
+        },
+        {
+            "Staff": "\nDon't kick the staff!\n"
+        }
+    ]
+}
